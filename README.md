@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Azure OpenAI Studio
-
-
 <!--
 **lukechi1219/lukechi1219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
